@@ -1,0 +1,218 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+}
+
+.btn {
+    text-align: left;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: none;
+    display: inline-block;
+}
+
+.btn-link {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    color: gray;
+    padding: 0;
+}
+
+.link a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: large;
+    color: gray;
+    text-decoration: none;
+}
+
+.link a:hover {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: large;
+    color: brown;
+    text-decoration: none;
+}
+
+h2 p {
+    font-size: small;
+    font-weight: bold;
+    line-height: 20px;
+    color: brown;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+
+.Bottomlane {
+    background-color: brown;
+    position: absolute;
+    bottom: 0;
+}
+
+.footer p {
+    letter-spacing: 1px;
+    text-align: left;
+    font-size: 3pt;
+    color: white;
+    line-height: 15px;
+    width: 100%;
+    background-color: brown;
+    padding: 20px 20px 20px 20px;
+    bottom: 0;
+    margin: 0;
+}
+
+.my-row {
+    background-color: brown;
+    height: 90px;
+    width: 100vw;
+    padding: 20px 20px 20px 20px;
+    position: absolute;
+    bottom: 0;
+
+}
+
+.title {
+    font-size: 24px;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    color: brown;
+}
+
+.logo {
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    color: brown;
+    margin: 10 10 5 5;
+    padding: 0;
+}
+
+.head {
+    border: 1px solid gray;
+    border-radius: 100%;
+    width: 150px;
+}
+
+.people {
+    color: gray;
+    font-weight: 800;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: none;
+}
+
+
+.people-side {
+    color: gray;
+    font-size: xx-small;
+}
+
+.people-side :hover {
+    color: gray;
+    text-decoration: none;
+}
+
+.people-side-page {
+    font-size: medium;
+    color: rgb(114, 114, 114);
+}
+
+.introduction {
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.introduction-title {
+    font-weight: 500;
+    font-size: large;
+    color: gray;
+    width: 300px;
+    height: 20px;
+    padding: 0px;
+    text-align: left;
+    text-decoration: none;
+    border: none;
+    display: inline-block;
+    box-shadow: none;
+}
+
+button:focus {
+    outline: none;
+}
+
+.introduction-title:hover {
+    font-weight: 500;
+    font-size: large;
+    color: brown;
+    text-decoration: none;
+}
+
+.introduction-font {
+    font-weight: 500;
+    font-size: large;
+    color: gray;
+    text-decoration: none;
+}
+
+.introduction-title-four {
+    font-weight: 500;
+    font-size: large;
+    color: gray;
+    height: 80px;
+    padding: 0px;
+    text-align: left;
+    text-decoration: none;
+    border: none;
+    display: inline-block;
+    box-shadow: none;
+}
+
+.introduction-title-four:hover {
+    font-weight: 500;
+    font-size: large;
+    color: brown;
+    text-decoration: none;
+}
+
+.introduction-Text {
+    color: rgb(165, 165, 165);
+    font-size: small;
+}
+
+.introduction-Text-four {
+    color: rgb(184, 119, 58);
+    font-size: 9px;
+}
+
+.people-side {
+    font-weight: normal;
+}
+
+.people :hover {
+    color: brown;
+    text-decoration: none;
+}
+
+.hover :hover {
+    color: brown;
+    text-decoration: none;
+}
